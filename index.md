@@ -1,6 +1,6 @@
 ---
 title: New Title
-description: new description
+description: New description
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
