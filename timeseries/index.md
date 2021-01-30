@@ -3,6 +3,8 @@ title: Sara Mills
 description: Course Content
 ---
 
-Content introduction sentence. 
+Sara Mills 
+
+Introduction to Content:  
 - [Test Notebook (html)](Test Notebook.html)
 - [Test Notebook (ipynb)](Test Notebook.ipynb)
