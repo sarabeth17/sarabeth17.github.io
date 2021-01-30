@@ -7,7 +7,7 @@ description: New description
 
 This is link to test content
 
-- [Test Folder](/TestFolder/index.md)
+- [Test Folder](/timeseries/index.md)
 
 Link to repository page. 
 - [Sample Repository](https://github.com/sarabeth17/Sample)
