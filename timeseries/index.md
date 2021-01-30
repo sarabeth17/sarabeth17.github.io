@@ -1,8 +1,8 @@
 ---
-title: TimeSeries Decomposition
+title: Sara Mills
 description: Course Content
 ---
 
 Content introduction sentence. 
-- [Time Series Decomposition (html)](Test Notebook.html)
-- [Time Series Decomposition (ipynb)](Test Notebook.ipynb)
+- [Test Notebook (html)](Test Notebook.html)
+- [Test Notebook (ipynb)](Test Notebook.ipynb)
